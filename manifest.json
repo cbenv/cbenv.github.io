@@ -1,11 +1,11 @@
 {
-  "name": "Christoforus J. Benvenuto",
+  "name": "Christoforus Juan Benvenuto",
   "short_name": "C. Benvenuto",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FAFAFA",
-  "theme_color": "#00675B",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
   "icons": [
     {
       "src": "/assets/icons/android-chrome-192x192.png",
