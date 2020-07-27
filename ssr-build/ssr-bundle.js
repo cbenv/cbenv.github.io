@@ -685,23 +685,29 @@ var row_SplitRow = function (_Component) {
 /* harmony default export */ var row = (row_SplitRow);
 // CONCATENATED MODULE: ./components/experiences/experiences.js
 var experiences = [{
-  positions: [{ title: 'Software Engineer II', start: '2019', end: 'Present' }],
+  positions: [{ title: 'Staff Engineer II', start: '2020', end: 'Present' }],
+  employer: 'HBO',
+  location: 'Seattle, WA',
+  technologies: ['TypeScript', 'JavaScript', 'React'],
+  duties: ['Collaborate with design and product partners to build the user interface components for intuitive and responsive video playback across mobile devices, tablets, desktops, Chromecast receivers, smart televisions, and gaming consoles.', 'Own the entire video user experience for millions of HBO and HBO Max customers, including core player interface and multi-language support while also improving its quality of experience via telemetry and data analysis.']
+}, {
+  positions: [{ title: 'Software Engineer II', start: '2019', end: '2020' }],
   employer: 'Twitter',
   location: 'Seattle, WA',
   technologies: ['TypeScript', 'React', 'Scala', 'Thrift', 'JavaScript', 'AngularJS', 'Ruby'],
-  duties: ['Build scalable and efficient systems in Scala and React to help drive efficiency and scale of operations', 'Drive user interfaces, distributed systems, and asynchronous programming to fight abuse, support new Twitter initiatives, managing user accounts, authorization, and troubleshooting', 'Perform agile development unit testing, run code reviews, and design documentation using Twitter’s best practices']
+  duties: ['Engineered a suite of tools to manage, authorize, and troubleshoot accounts; moderate user-generated contents; and ensure compliance with applicable laws where Twitter operates.', 'Drove the effort in extending and plumbing existing services to support new type of contents projected to increase users’ conversions and engagements.', 'Consolidated legacy services into faster and user-friendlier services, resulting in at least doubled users’ efficiency and improved development velocity.']
 }, {
   positions: [{ title: 'Software Engineer II', start: '2017', end: '2019' }, { title: 'Software Engineer I', start: '2016', end: '2017' }],
   employer: 'Groupon',
   location: 'Seattle, WA',
   technologies: ['JavaScript', 'Backbone', 'Preact', 'Node', 'Express', 'Java', 'SQL'],
-  duties: ['Developed multiple customer facing websites which serves more than 2 millions daily requests', 'Owned feature delivery, ranging from clarifying requirements, overseeing engineering plans, building prototypes, securing QA sign-off, to monitoring outcome', 'Built customer-facing third party integration interface, enabling the company to onboard partner estimated to bring in $10.6 millions annualized net operating balance', 'Led team in migrating services to multiple data centers for better resiliency and higher uptime', 'Built third party integration portal for merchants to reduce friction and increase supply, which results in estimated annual net operating balance increase of $3.0 millions']
+  duties: ['Developed multiple customer-facing websites serving more than 2 millions daily requests.', 'Built a customer-facing third-party integration interface, enabling the company to onboard partner estimated to bring in $10.6 million annually.', 'Architected integrations with multiple third-party services in order to reduce friction for merchants, which results in an estimated annual net operating balance increase of $3.0 million.', 'Led team in migrating services to multiple data centers for better resilience.']
 }, {
   positions: [{ title: 'Graduate Teaching Assistant', start: '2015', end: '2015' }],
   employer: 'Northeastern University',
   location: 'Seattle, WA',
   technologies: ['Racket (PLT Scheme)'],
-  duties: ['Assisted instructors in improving the learning experience of 30 students', 'Clarified and answered students\' questions and provided guidance during office hours', 'Recorded concisely the performance and flaws of students, as well as comments and criticisms from instructors, when students demonstrate their code every week', 'Inputted students\' scores to the grade book and ensured their consistency']
+  duties: ['Assisted instructors in improving the learning experience of 30 students', 'Clarified and answered students\' questions and provided guidance during office hours', 'Recorded concisely the performance of students, as well as comments and feedback from instructors, when students demonstrate their code every week', 'Inputted students\' scores to the grade book and ensured their consistency']
 }, {
   positions: [{ title: 'Science and Math Tutor', start: '2010', end: '2011' }],
   employer: 'Seattle Central College',
